@@ -1,4 +1,4 @@
-# I'm a frontend developer. Hi! 👋
+# I'm a front-end developer. Hi! 👋
 
 21 y.o.  •  he/him  •  :ru: :us: :netherlands: <sub><sup>(een beetje)</sup></sub>
 
@@ -38,6 +38,8 @@ Prior to these projects, I had a 🐍 back-end background, then started building
 
 🌐 [Live Version](https://ipts.innopolis.university) &nbsp;/&nbsp; 📕 [Repositories](https://github.com/Innopoints)
 
+---
+
 <img src="https://raw.githubusercontent.com/illright/attractions/master/docs/static/android-chrome-192x192.png" align="right" width="64" alt="" />
 
 ### Attractions  •  2020
@@ -51,6 +53,8 @@ Prior to these projects, I had a 🐍 back-end background, then started building
 *Here I learned TypeScript and npm packaging and got experience of maintaining an open-source project.*
 
 🌐 [Website](https://illright.github.io/attractions) &nbsp;/&nbsp; 📕 [Repository](https://github.com/illright/attractions)
+
+---
 
 <img src="https://raw.githubusercontent.com/illright/draw-ill-help/7c827c429a64c1720579408538580898493bf3fd/static/FlatColorIconsPicture.svg" align="right" width="64" alt="" />
 
@@ -67,6 +71,8 @@ Prior to these projects, I had a 🐍 back-end background, then started building
 *Here I learned how to train and embed an ML model into the browser to be executed by JavaScript, powered by Web Workers. Also I learned about Feature-Sliced Design, which is now my favorite frontend architecture.*
 
 🌐 [Live Version](https://illright.github.io/draw-ill-help) &nbsp;/&nbsp; 📕 [Repository](https://github.com/illright/draw-ill-help)
+
+---
 
 <img src="https://raw.githubusercontent.com/aabounegm/cast/4a259527fe6ee9781faae4874084e88e0eaa94ae/src/lib/app/meta/app-icon.svg" align="right" width="64" alt="" />
 
