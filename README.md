@@ -94,7 +94,7 @@ Prior to these projects, I had a 🐍 back-end background, then started building
 
 ## Acknowledgments & On Privilege
 
-I recognize that my developer journey and my current skill set is a result of years of dedication, passion and practice. However, I also recognize that I'm priviledged enough to have a strong education and all of the internet at my fingertips to turbocharge my self-learning and practice. Not everyone has such an advantage, and I would be honored to make a difference in the world that would enable more people a brighter future they dream of.
+I recognize that my developer journey and my current skill set is a result of years of dedication, passion and practice. However, I also recognize that I'm privileged enough to have a strong education and all of the internet at my fingertips to turbocharge my self-learning and practice. Not everyone has such an advantage, and I would be honored to make a difference in the world that would enable more people a brighter future they dream of.
 
 I'm grateful to:
 
