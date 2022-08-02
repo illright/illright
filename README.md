@@ -113,7 +113,7 @@ My musical recommendation is [_WLUWD_ by Tristam](https://ffm.to/wluwdtristam).
 
 </sub>
 
-<sub>My homeland, Russia, has brought war to Ukraine.</sub><br /><sup>I feel ashamed for the actions of Russian authorities and stand with the people of Ukraine. #StopTheWar</sup> 
+<sub>My homeland, Russia, has brought war to Ukraine.</sub><br /><sup>I feel ashamed for the actions of Russian authorities and stand with the people of Ukraine. <b>#StopTheRussianInvasion</b></sup> 
 
 <sub>Thank you for reading this far ❤️</sub>
 
