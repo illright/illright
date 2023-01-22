@@ -1,6 +1,6 @@
 # I'm a front-end developer. Hi! 👋
 
-21 y.o.  •  he/him  •  :ru: :us: :netherlands: <sub><sup>(een beetje)</sup></sub>
+22 y.o.  •  he/him  •  :ru: :us: :netherlands: <sub><sup>(een beetje)</sup></sub>
 
 Trusted technologies:
 
@@ -8,9 +8,9 @@ Trusted technologies:
 - 🌐 TypeScript, JavaScript
 - 🛠️ Vite, Rollup, Webpack
 - 🚦 Git, Docker, GitHub Actions
-- 🔍 Jest, Cypress
+- 🔍 Jest/Vitest, Cypress
 
-Connect with me on [LinkedIn](https://linkedin.com/in/illright)! I'm open to job offers with relocation to Rotterdam or some other city in the Netherlands.
+Connect with me on [LinkedIn](https://linkedin.com/in/illright)!
 
 ## My Developer Origins
 
