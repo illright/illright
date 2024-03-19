@@ -1,6 +1,6 @@
 # I'm a front-end developer. Hi! 👋
 
-22 y.o.  •  :ru: :us: :netherlands: <sub><sup>(een beetje)</sup></sub>
+23 y.o.  •  :ru: :us: :netherlands: <sub><sup>(een beetje)</sup></sub>
 
 Trusted technologies:
 
