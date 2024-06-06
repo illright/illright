@@ -1,6 +1,6 @@
 # I'm a front-end developer. Hi! 👋
 
-23 y.o.  •  :ru: :us: :netherlands: <sub><sup>(een beetje)</sup></sub>
+23 y.o.  •  :ru: :us: :netherlands:
 
 Trusted technologies:
 
@@ -113,7 +113,7 @@ My musical recommendation is [_WLUWD_ by Tristam](https://ffm.to/wluwdtristam).
 
 </sub>
 
-<sub>My homeland, Russia, has brought war to Ukraine.</sub><br /><sup>I feel ashamed for the actions of Russian authorities and stand with the people of Ukraine. <b>#StopTheRussianInvasion</b></sup> 
+<sub>My homeland, Russia, has brought war to Ukraine.</sub><br /><sup>I feel ashamed for the actions of Russian authorities and stand with the people of Ukraine.</sup> 
 
 <sub>Thank you for reading this far ❤️</sub>
 
