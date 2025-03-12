@@ -1,6 +1,6 @@
 # I'm a front-end developer. Hi! 👋
 
-24 y.o.  •  :ru: :us: :netherlands:
+24 y.o.  •  :ru: :uk: :netherlands:
 
 Trusted technologies:
 
@@ -9,8 +9,6 @@ Trusted technologies:
 - 🛠️ Vite, Rollup, Webpack
 - 🚦 Git, Docker, GitHub Actions
 - 🔍 Jest/Vitest, Cypress
-
-Connect with me on [LinkedIn](https://linkedin.com/in/illright)!
 
 ## My Developer Origins
 
